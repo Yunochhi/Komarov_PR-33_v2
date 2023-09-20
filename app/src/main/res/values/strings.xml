@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">variant2_komarov</string>
+    <string name="converter">Конвертер единиц информации</string>
+    <string name="log">Введите логин</string>
+    <string name="pas">Введите пароль</string>
+    <string name="text1">Начать</string>
+    <string name="text2">Выбор единиц информации</string>
+    <string name="text3">Введите число</string>
+    <string name="byt">байт</string>
+    <string name="kilobyt">Килобайт</string>
+    <string name="res">Результат</string>
+    <string name="iz">Из</string>
+    <string name="v">В</string>
+    <string name="text4">Вычислить</string>
+    <string name="reg">Регистрация</string>
+    <string name="vvod">Введенное число:</string>
+
+
+</resources>
